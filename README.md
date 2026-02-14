@@ -25,5 +25,4 @@ python stock_portfolio.py
 Rakesh | MCA Student
 Python Programming Intern-CodeAlpha
 
-# CodeAlpha_Stock_Portfolio
-Stock Portfolio Tracker using Python - CodeAlpha Internship
+
